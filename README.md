@@ -32,7 +32,7 @@ Systems Analyst · C# / .NET · Swift & SwiftUI · Data Science (UBA)
 ## Proyectos Destacados
 
 - **[ProbaLab](https://github.com/lbyache/ProbaLab)** — Calculadora nativa de distribuciones discretas de probabilidad para iOS. Resuelve binomial, Poisson, geométrica e hipergeométrica con gráficos dinámicos (Swift Charts), combinatoria en log-espacio y 85 tests unitarios. (Swift 6 · SwiftUI).
-- **[placarcito](https://github.com/lbyache/placarcito)** — Armario digital y estilismo personal para iOS. Segmentación y remoción de fondo on-device con Apple Vision (), sugerencias climáticas de looks y persistencia con SwiftData.
+- **[placarcito](https://github.com/lbyache/placarcito)** — Armario digital y estilismo personal para iOS. Segmentación y remoción de fondo on-device con Apple Vision (VNGenerateForegroundInstanceMaskRequest), sugerencias climáticas de looks y persistencia con SwiftData.
 - **[campus-sync](https://github.com/lbyache/campus-sync)** — Herramienta de línea de comandos para macOS que sincroniza cursos y material de Moodle localmente vía API oficial móvil. Cero dependencias externas, almacenamiento de credenciales en Apple Keychain.
 - **[diWall](https://github.com/lbyache/diWall)** — Aplicación de finanzas personales para iOS con registro de transacciones, seguimiento de metas de ahorro y cálculo de balances dinámicos en SwiftData.
 - **[web-farmacia-colon](https://github.com/lbyache/web-farmacia-colon)** — Sitio web e interfaz institucional para Farmacia Colón desarrollado con Laravel, HTML y Tailwind CSS.
