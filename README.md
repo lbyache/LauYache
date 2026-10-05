@@ -2,73 +2,56 @@
 
 # Laura Belén Yachelini
 
-### Software Engineer | Transitioning to iOS Development
-Systems Analyst · Strong Backend & Architecture Foundation
+### Software Engineer | Backend & iOS Development
+Systems Analyst · C# / .NET · Swift & SwiftUI · Data Science (UBA)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-yachelini-844621184/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-lbyache.github.io-68478d?style=flat-square)](https://lbyache.github.io/portfolio-lby/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lauyache)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@unalaliya)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lbyachelini@gmail.com)
 
 <br/>
 
-<!-- iOS Stack -->
+<!-- Primary Stack -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Swift_6-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift 6"/>
   <img src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-<!-- Foundation Stack -->
-<p align="center">
+  <img src="https://img.shields.io/badge/SwiftData-147EFB?style=flat-square&logo=apple&logoColor=white" alt="SwiftData"/>
+  <img src="https://img.shields.io/badge/iOS_18-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 </div>
 
 ---
 
-## About Me / Sobre Mí
+## Proyectos Destacados
 
-### English
-Software Developer and Systems Analyst with enterprise experience in .NET and C#, currently transitioning into native iOS Development with Swift and SwiftUI.
-
-My background in backend systems, database design, and software architecture provides a solid foundation for building native iOS applications with clean architecture (MVVM), structured REST API integration, and robust state management.
-
-- **Target & Current Stack:** Swift, SwiftUI, Xcode, iOS SDK, Git, Unit Testing.
-- **Engineering Foundation:** Systems Analysis, C#, .NET, Clean Architecture, Relational Databases, Process Automation.
-- **Currently Building & Exploring:** Native iOS applications, Swift concurrency (Async/Await), SwiftData, and Apple Human Interface Guidelines.
+- **[ProbaLab](https://github.com/lbyache/ProbaLab)** — Calculadora nativa de distribuciones discretas de probabilidad para iOS. Resuelve binomial, Poisson, geométrica e hipergeométrica con gráficos dinámicos (Swift Charts), combinatoria en log-espacio y 85 tests unitarios. (Swift 6 · SwiftUI).
+- **[placarcito](https://github.com/lbyache/placarcito)** — Armario digital y estilismo personal para iOS. Segmentación y remoción de fondo on-device con Apple Vision (), sugerencias climáticas de looks y persistencia con SwiftData.
+- **[campus-sync](https://github.com/lbyache/campus-sync)** — Herramienta de línea de comandos para macOS que sincroniza cursos y material de Moodle localmente vía API oficial móvil. Cero dependencias externas, almacenamiento de credenciales en Apple Keychain.
+- **[diWall](https://github.com/lbyache/diWall)** — Aplicación de finanzas personales para iOS con registro de transacciones, seguimiento de metas de ahorro y cálculo de balances dinámicos en SwiftData.
+- **[web-farmacia-colon](https://github.com/lbyache/web-farmacia-colon)** — Sitio web e interfaz institucional para Farmacia Colón desarrollado con Laravel, HTML y Tailwind CSS.
 
 ---
 
-### Español
-Desarrolladora de software y Analista de Sistemas con experiencia en entornos .NET y C#, actualmente orientada a la transición hacia el desarrollo iOS nativo con Swift y SwiftUI.
+## Sobre Mí
 
-La formación en análisis de sistemas y la experiencia previa en backend me permiten abordar el desarrollo móvil con foco en arquitectura limpia (MVVM), consumo eficiente de APIs REST, diseño de datos y buenas prácticas de ingeniería de software.
+Desarrolladora de software y Analista de Sistemas con experiencia en entornos empresariales C#/.NET y docencia universitaria en programación web y bases de datos. Enfoque técnico centrado en arquitectura de software limpia (MVVM / Clean Architecture), persistencia eficiente y desarrollo nativo en iOS con Swift y SwiftUI.
 
-- **Foco actual:** Swift, SwiftUI, Xcode, iOS SDK, Git, Testing unitario.
-- **Base de ingeniería:** Análisis de Sistemas, C#, .NET, Clean Architecture, Bases de datos relacionales, Automatización de procesos.
-- **En desarrollo:** Aplicaciones nativas en iOS, concurrencia moderna en Swift, SwiftData y Apple Human Interface Guidelines.
+- **Stack móvil:** Swift 6, SwiftUI, SwiftData, Swift Charts, Apple Vision, XCTest.
+- **Stack backend:** C#, .NET, APIs REST, arquitectura orientada a servicios, bases de datos relacionales.
+- **Formación:** Analista de Sistemas (Escuela Da Vinci), Licenciatura en Ciencia de Datos (Universidad de Buenos Aires - UBA).
 
 ---
 
-## Technical Writing & Articles
+## Publicaciones Técnicas
 
-Publicaciones y reflexiones técnicas en [Medium (@unalaliya)](https://medium.com/@unalaliya):
-
-- **Debug Mental** — Reflexiones sobre el proceso de aprendizaje y resolución de problemas.
-- **Commit Semanal** — Aprendizajes semanales, descubrimientos técnicos y buenas prácticas.
+Artículos y notas en [Medium (@unalaliya)](https://medium.com/@unalaliya):
+- **Debug Mental** — Enfoque metodológico en la resolución de problemas y razonamiento técnico.
+- **Commit Semanal** — Aprendizajes semanales, patrones de arquitectura y buenas prácticas.
 - **Para Curiosas** — Conceptos fundamentales de desarrollo de software explicados con claridad.
-
----
-
-## Projects & Sandbox
-
-- **iOS Practice Apps** — Proyectos en Swift y SwiftUI enfocados en interfaces declarativas, consumo de APIs y persistencia de datos.
-- **[Development Sandbox](https://github.com/yachela)** — Entorno de pruebas, arquitectura y experimentación técnica.
